@@ -4,6 +4,7 @@ Free Claude skills and starter guides from the AI Senseii Instagram page. Each f
 
 | Folder | What it is |
 |---|---|
+| [ANIMATION](ANIMATION) | Make animated videos in code, in your own saved style: the `animation-director` skill copies the look of a video you love or designs a style for you, saves it, and reuses it on every video |
 | [IDEA](IDEA) | Test your business idea before you spend a dollar: the best order to run the free Founder skills, your first test prompts, and the `idea-test` skill that runs it for you |
 
 Founder itself is by Jake Schincariol ([github.com/Jakeschincariol/founder-skill](https://github.com/Jakeschincariol/founder-skill), MIT). It isn't ours, and he isn't involved with this repo.
